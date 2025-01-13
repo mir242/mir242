@@ -1,9 +1,9 @@
 <h1 align="center">
     <img src="https://komarev.com/ghpvc/?username=mir242&label=Profile%20views&color=0e75b6&style=flat" alt="mir242">
-    سلام👋، من علی، mirmohammadi هستم
+    Hi👋, I'm Ali, mirmohammadi
   </h1>
   
-  <h3 align="center">contact of me 😊</h3>
+  <h3 align="center">Contact me 😊</h3>
   
   <p align="center">
     <a href="https://linkedin.com/in/ali-mirmohamadi" target="blank">
@@ -11,9 +11,13 @@
     </a>
   </p>
   
+  <p align="center">
+    📞 +989050257043
+  </p>
+  
   <img align="right" alt="ali" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
   
-  <h3 align="left">زبان‌ها و ابزارها:</h3>
+  <h3 align="left">Languages and Tools:</h3>
   <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40">
@@ -62,4 +66,3 @@
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mir242&" alt="mir242">
   </p>
-  
